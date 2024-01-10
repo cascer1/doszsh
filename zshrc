@@ -108,7 +108,4 @@ zstyle ':completion:*' menu select
 # Variables
 export PATH=/home/cas/.local/share/JetBrains/Toolbox/scripts:$PATH
 
-alias fly=/snap/bin/andrea-flyctl.fly
-alias flyctl=/snap/bin/andrea-flyctl.fly
-
 source .zsh/aliases.sh
