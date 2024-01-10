@@ -70,7 +70,7 @@ HIST_STAMPS="yyyy-mm-dd"
 # Custom plugins may be added to $ZSH_CUSTOM/plugins/
 # Example format: plugins=(rails git textmate ruby lighthouse)
 # Add wisely, as too many plugins slow down shell startup.
-plugins=(git 1password)
+plugins=(git aliases dnf)
 
 source $ZSH/oh-my-zsh.sh
 
@@ -108,4 +108,4 @@ zstyle ':completion:*' menu select
 # Variables
 export PATH=/home/cas/.local/share/JetBrains/Toolbox/scripts:$PATH
 
-source .zsh/aliases.sh
+source ~/.zsh/aliases.sh
