@@ -1,3 +1,7 @@
+# ARCHIVED
+
+!!! This repo is archived. Instead, use [cascer1/dotfiles](https://github.com/cascer1/dotfiles) !!!
+
 ## Installation (for lazy people):
 WARNING: This overrides your `.zshrc`, make sure you have a backup!
 
